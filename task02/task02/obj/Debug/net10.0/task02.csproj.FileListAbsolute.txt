@@ -1,0 +1,11 @@
+C:\omgtu-practice-2026\task02\task02\bin\Debug\net10.0\task02.deps.json
+C:\omgtu-practice-2026\task02\task02\bin\Debug\net10.0\task02.dll
+C:\omgtu-practice-2026\task02\task02\bin\Debug\net10.0\task02.pdb
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.AssemblyInfoInputs.cache
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.AssemblyInfo.cs
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.csproj.CoreCompileInputs.cache
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.dll
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\refint\task02.dll
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\task02.pdb
+C:\omgtu-practice-2026\task02\task02\obj\Debug\net10.0\ref\task02.dll
