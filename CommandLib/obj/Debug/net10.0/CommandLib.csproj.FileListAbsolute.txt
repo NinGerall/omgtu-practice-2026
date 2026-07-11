@@ -1,0 +1,12 @@
+C:\omgtu-practice-2026\CommandLib\bin\Debug\net10.0\CommandLib.deps.json
+C:\omgtu-practice-2026\CommandLib\bin\Debug\net10.0\CommandLib.dll
+C:\omgtu-practice-2026\CommandLib\bin\Debug\net10.0\CommandLib.pdb
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.AssemblyInfoInputs.cache
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.AssemblyInfo.cs
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.csproj.CoreCompileInputs.cache
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.sourcelink.json
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.dll
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\refint\CommandLib.dll
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\CommandLib.pdb
+C:\omgtu-practice-2026\CommandLib\obj\Debug\net10.0\ref\CommandLib.dll
