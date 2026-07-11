@@ -1,0 +1,12 @@
+C:\omgtu-practice-2026\task07\bin\Debug\net10.0\task07.deps.json
+C:\omgtu-practice-2026\task07\bin\Debug\net10.0\task07.dll
+C:\omgtu-practice-2026\task07\bin\Debug\net10.0\task07.pdb
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.AssemblyInfoInputs.cache
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.AssemblyInfo.cs
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.csproj.CoreCompileInputs.cache
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.sourcelink.json
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.dll
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\refint\task07.dll
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\task07.pdb
+C:\omgtu-practice-2026\task07\obj\Debug\net10.0\ref\task07.dll
