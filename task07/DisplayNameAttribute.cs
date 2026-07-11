@@ -2,15 +2,14 @@ using System;
 
 namespace task07
 {
-    // Ограничиваем применение атрибута классами, методами и свойствами
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method | AttributeTargets.Property, AllowMultiple = false)]
     public class DisplayNameAttribute : Attribute
     {
-        public string Name { get; }
+        public string DisplayName { get; }
 
-        public DisplayNameAttribute(string name)
+        public DisplayNameAttribute(string displayName)
         {
-            Name = name ?? throw new ArgumentNullException(nameof(name));
+            DisplayName = displayName ?? throw new ArgumentNullException(nameof(displayName));
         }
     }
 }

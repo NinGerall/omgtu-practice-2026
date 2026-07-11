@@ -17,8 +17,8 @@ namespace task07
             var classVersion = type.GetCustomAttribute<VersionAttribute>();
 
             sb.AppendLine($"Класс: {type.Name}");
-            if (classDisplay != null) sb.AppendLine($"Понятное имя класса: {classDisplay.Name}");
-            if (classVersion != null) sb.AppendLine($"Версия класса: {classVersion.Version}");
+            if (classDisplay != null) sb.AppendLine($"Понятное имя класса: {classDisplay.DisplayName}");
+            if (classVersion != null) sb.AppendLine($"Версия класса: {classVersion.Major}.{classVersion.Minor}");
 
             sb.AppendLine();
             sb.AppendLine("Свойства:");
@@ -26,7 +26,7 @@ namespace task07
             {
                 var propDisplay = prop.GetCustomAttribute<DisplayNameAttribute>();
                 sb.Append($"- {prop.Name} (тип: {prop.PropertyType.Name})");
-                if (propDisplay != null) sb.Append($" [Понятное имя: {propDisplay.Name}]");
+                if (propDisplay != null) sb.Append($" [Понятное имя: {propDisplay.DisplayName}]");
                 sb.AppendLine();
             }
 
@@ -38,7 +38,7 @@ namespace task07
 
                 var methodDisplay = method.GetCustomAttribute<DisplayNameAttribute>();
                 sb.Append($"- {method.Name}");
-                if (methodDisplay != null) sb.Append($" [Понятное имя: {methodDisplay.Name}]");
+                if (methodDisplay != null) sb.Append($" [Понятное имя: {methodDisplay.DisplayName}]");
                 sb.AppendLine();
             }
 

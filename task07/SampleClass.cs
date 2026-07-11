@@ -2,21 +2,15 @@ using System;
 
 namespace task07
 {
-    [DisplayName("Демонстрационный Класс")]
-    [Version("1.0")]
+    [DisplayName("Пример класса")]
+    [Version(1, 0)]
     public class SampleClass
     {
-        [DisplayName("Идентификатор пользователя")]
-        public int Id { get; set; }
+        [DisplayName("Числовое свойство")]
+        public int Number { get; set; }
 
-        public string Name { get; set; }
-
-        [DisplayName("Выполнить расчет")]
-        public void Calculate()
-        {
-        }
-
-        public void Reset()
+        [DisplayName("Тестовый метод")]
+        public void TestMethod()
         {
         }
     }

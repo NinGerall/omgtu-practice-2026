@@ -2,15 +2,16 @@ using System;
 
 namespace task07
 {
-    // Этот атрибут применяется только к классам
     [AttributeUsage(AttributeTargets.Class, AllowMultiple = false)]
     public class VersionAttribute : Attribute
     {
-        public string Version { get; }
+        public int Major { get; }
+        public int Minor { get; }
 
-        public VersionAttribute(string version)
+        public VersionAttribute(int major, int minor)
         {
-            Version = version ?? throw new ArgumentNullException(nameof(version));
+            Major = major;
+            Minor = minor;
         }
     }
 }
