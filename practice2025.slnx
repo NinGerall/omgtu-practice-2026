@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="AssemblyInspector/AssemblyInspector.csproj" />
   <Project Path="AssemblyInspectorTests/AssemblyInspectorTests.csproj" />
+  <Project Path="DynamicCalcBase/DynamicCalcBase.csproj" />
+  <Project Path="DynamicCompilerApp/DynamicCompilerApp.csproj" />
+  <Project Path="DynamicCompilerTests/DynamicCompilerTests.csproj" />
   <Project Path="PluginEngine/PluginEngine.csproj" />
   <Project Path="PluginEngineTests/PluginEngineTests.csproj" />
   <Project Path="PluginsBase/PluginsBase.csproj" />
