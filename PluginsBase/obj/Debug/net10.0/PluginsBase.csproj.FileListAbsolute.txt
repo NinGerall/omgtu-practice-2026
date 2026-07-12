@@ -1,0 +1,12 @@
+C:\omgtu-practice-2026\PluginsBase\bin\Debug\net10.0\PluginsBase.deps.json
+C:\omgtu-practice-2026\PluginsBase\bin\Debug\net10.0\PluginsBase.dll
+C:\omgtu-practice-2026\PluginsBase\bin\Debug\net10.0\PluginsBase.pdb
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.AssemblyInfoInputs.cache
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.AssemblyInfo.cs
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.csproj.CoreCompileInputs.cache
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.sourcelink.json
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.dll
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\refint\PluginsBase.dll
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\PluginsBase.pdb
+C:\omgtu-practice-2026\PluginsBase\obj\Debug\net10.0\ref\PluginsBase.dll
