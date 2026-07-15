@@ -4,6 +4,7 @@ public static class DefiniteIntegral
 {
     private static double _totalSum;
 
+    // Многопоточная реализация
     public static double Solve(double a, double b, Func<double, double> function, double step, int threadsNumber)
     {
         _totalSum = 0.0;
@@ -31,6 +32,12 @@ public static class DefiniteIntegral
         barrier.SignalAndWait();
 
         return _totalSum;
+    }
+
+    // Однопоточная последовательная реализация (без потоков вообще)
+    public static double SolveSequential(double a, double b, Func<double, double> function, double step)
+    {
+        return CalculateSegment(a, b, function, step);
     }
 
     private static double CalculateSegment(double start, double end, Func<double, double> function, double step)
